@@ -1,10 +1,6 @@
-site_name: Vivek Anchewar
-theme:
-  name: material
-  palette:
-    primary: deep purple
-    accent: blue
-extra:
-  logo: assets/logo.png
-  description: Text below image
-  show_downloads: true
+title: Vivek Anchewar
+logo: /assets/logo.png
+description: Text below image
+show_downloads: true
+remote_theme: pages-themes/cayman@v0.2.0
+
