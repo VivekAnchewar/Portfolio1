@@ -1,57 +1,47 @@
-#Project Title
-A brief, clear, and descriptive title for your project.
+# Data Analyst Portfolio
 
-##📖 Description
-Explain the purpose of the project.
+## About Me
+I am a data analyst with expertise in SQL, Python, Power BI, and Tableau, focusing on facilitating business growth through data management optimization and insightful reporting. I have experience working on end-to-end Power BI projects, SQL queries, and data processing, ensuring efficiency and accuracy in business intelligence.
 
-##Highlight key features.
+## Education
+- **Instrumentation Engineering**
 
-##Mention technologies used (SQL, Power BI, Python, Raspberry Pi, etc.).
+## Work Experience
+### Data Analyst @ GlintSoft Infotech
+- **Big Impact Project 1**: [Brief description of the project, impact, and technologies used]
+- **Big Impact Project 2**: [Brief description of the project, impact, and technologies used]
 
-##📂 Folder Structure
-bash
-Copy
-Edit
-/project-root
-│-- /data              # Raw and processed datasets  
-│-- /scripts           # Python, SQL, or Power BI scripts  
-│-- /notebooks         # Jupyter notebooks (if applicable)  
-│-- /dashboards        # Power BI or Tableau dashboards  
-│-- /docs              # Documentation and reports  
-│-- README.md          # This README file  
-🔧 Installation & Setup
-List dependencies and installation steps.
+## Projects
+### Real vs. Fake News Analysis
+- Developed a machine learning model for classifying real and fake news articles using Python.
+- Conducted sentiment analysis and model comparison with various ML algorithms.
+- Created visualizations including histograms, density plots, and pie charts.
+- Deployment options explored: R Shiny, Flask, Streamlit.
 
-If using Python, provide a requirements.txt file.
+### Clustering Analysis of Economic and Development Metrics
+- Analyzed global development data using clustering techniques to identify trends.
+- Compared different clustering models to optimize insights.
+- Deployed the project using Streamlit/Flask.
 
-###Example:
+### Power BI Dashboard for High Clouds Airlines
+- Created a dashboard to monitor key airline metrics including revenue, customer satisfaction, and operational efficiency.
+- Utilized DAX queries, Power Query, and data modeling to provide insightful visualizations.
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-🚀 Usage
-How to run the project (e.g., executing SQL queries, opening Power BI files).
+### Automated Data Entry System for Logistics
+- Designed an Excel-based data entry panel for logistics transportation, automating report generation and dashboard updates.
+- Reduced manual data entry time and enhanced efficiency.
 
-Any command-line instructions or UI details.
+## Skills
+- **Data Analysis:** Python, SQL, Excel, Power BI, Tableau
+- **Data Engineering:** Data Modeling, ETL, Data Cleaning
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+- **Automation & Reporting:** Power Query, Advanced Excel Functions, Dashboard Creation
+- **Machine Learning:** Classification, Clustering, Sentiment Analysis
 
-##📊 Data Sources
-Mention where the data comes from (e.g., databases, APIs, CSVs).
+## Contact
+- LinkedIn: [Your LinkedIn Profile]
+- GitHub: [Your GitHub Profile]
+- Email: [Your Email]
 
-Brief description of datasets used.
 
-##🛠️ Features & Methodology
-Describe the key features (e.g., machine learning models, dashboards, reports).
 
-Include a short explanation of how the system works.
-
-##📈 Results & Visualizations
-Add screenshots of Power BI dashboards, charts, or model outputs.
-
-Summarize key insights.
-
-##🏗️ Future Improvements
-List any features planned for future updates.
-
-##📝 License
-(Optional) Specify if the project has an open-source license.
