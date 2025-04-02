@@ -1,4 +1,4 @@
-#📌 Project Title
+#Project Title
 A brief, clear, and descriptive title for your project.
 
 ##📖 Description
